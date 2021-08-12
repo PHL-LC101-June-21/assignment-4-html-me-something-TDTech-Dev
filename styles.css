@@ -1,4 +1,5 @@
 body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 8px;
     background-image: linear-gradient(#FFFFFF, rgb(150, 11, 163));
     display: block;
